@@ -1,0 +1,8 @@
+{
+  "name": "vs-code-projekt-starter",
+  "version": "0.0.1",
+  "description": "Simple starter project setup with some extension recommendations",
+  "main": "index.js",
+  "author": "Ove Doll",
+  "license": "MIT"
+}
